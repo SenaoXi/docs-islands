@@ -1,0 +1,40 @@
+{
+  "/concept": {
+    "loaderScript": "/docs-islands/assets/unified-loader.e3a44605.js",
+    "modulePreloads": [
+      "/docs-islands/assets/Landing.DWZndJZe.js",
+      "/docs-islands/assets/ReactComp1.CmU4wdI0.js",
+      "/docs-islands/assets/ReactComp3.B5f-3IR5.js",
+      "/docs-islands/assets/ReactComp4.CNd_-HZ6.js",
+      "/docs-islands/assets/ReactVueSharedComp.2Df5GHds.js",
+      "/docs-islands/assets/chunks/renderSharedLicense.7ihd1Uht.js",
+      "/docs-islands/assets/chunks/jsx-runtime.BVsBYW55.js"
+    ],
+    "cssBundlePaths": [
+      "/docs-islands/assets/Landing.DsZ-oYy7.css",
+      "/docs-islands/assets/ReactComp1.CkOOUjfW.css",
+      "/docs-islands/assets/ReactComp2.h7Y-xdR4.css",
+      "/docs-islands/assets/ReactComp3.COR3jQwa.css"
+    ],
+    "ssrInjectScript": "/docs-islands/assets/ssr-inject-code.e53ef9ee.js"
+  },
+  "/zh/concept": {
+    "loaderScript": "/docs-islands/assets/unified-loader.f97fe7c4.js",
+    "modulePreloads": [
+      "/docs-islands/assets/Landing.CDXyl5pH.js",
+      "/docs-islands/assets/ReactComp1.BMxtl_QH.js",
+      "/docs-islands/assets/ReactComp3.bzk1Ohq6.js",
+      "/docs-islands/assets/ReactComp4.CoMpYBxI.js",
+      "/docs-islands/assets/ReactVueSharedComp.DnenCgn1.js",
+      "/docs-islands/assets/chunks/renderSharedLicense.B7IuWPAN.js",
+      "/docs-islands/assets/chunks/jsx-runtime.BVsBYW55.js"
+    ],
+    "cssBundlePaths": [
+      "/docs-islands/assets/Landing.DsZ-oYy7.css",
+      "/docs-islands/assets/ReactComp1.B_8-H-P-.css",
+      "/docs-islands/assets/ReactComp2.zEIHWJyy.css",
+      "/docs-islands/assets/ReactComp3.BvmKd6v5.css"
+    ],
+    "ssrInjectScript": "/docs-islands/assets/ssr-inject-code.20556eb5.js"
+  }
+}
