@@ -1,1 +1,0 @@
-const s="/docs-islands/spa-sync-render-disable-screenshot.webp",e="/docs-islands/spa-sync-render-disable-video.mp4",d="/docs-islands/spa-sync-render-screenshot.webp",n="/docs-islands/spa-sync-render-video.mp4",o="/docs-islands/spa-sync-render-side-effects-video.mp4";export{s as _,e as a,d as b,n as c,o as d};
