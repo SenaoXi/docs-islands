@@ -1,8 +1,8 @@
 {
-  "/concept": {
-    "loaderScript": "/docs-islands/vitepress/assets/unified-loader.34578859.js",
+  "/core-concepts": {
+    "loaderScript": "/docs-islands/vitepress/assets/unified-loader.7677e6ff.js",
     "modulePreloads": [
-      "/docs-islands/vitepress/assets/Landing.bLYzv2et.js",
+      "/docs-islands/vitepress/assets/Landing.tz_DNiP2.js",
       "/docs-islands/vitepress/assets/ReactComp1.CmU4wdI0.js",
       "/docs-islands/vitepress/assets/ReactComp3.B5f-3IR5.js",
       "/docs-islands/vitepress/assets/ReactComp4.CNd_-HZ6.js",
@@ -16,12 +16,12 @@
       "/docs-islands/vitepress/assets/ReactComp2.h7Y-xdR4.css",
       "/docs-islands/vitepress/assets/ReactComp3.COR3jQwa.css"
     ],
-    "ssrInjectScript": "/docs-islands/vitepress/assets/ssr-inject-code.e53ef9ee.js"
+    "ssrInjectScript": "/docs-islands/vitepress/assets/ssr-inject-code.b06797fd.js"
   },
-  "/zh/concept": {
-    "loaderScript": "/docs-islands/vitepress/assets/unified-loader.3c8a6438.js",
+  "/zh/core-concepts": {
+    "loaderScript": "/docs-islands/vitepress/assets/unified-loader.d775f762.js",
     "modulePreloads": [
-      "/docs-islands/vitepress/assets/Landing.BesUqjWz.js",
+      "/docs-islands/vitepress/assets/Landing.ygwOyIBy.js",
       "/docs-islands/vitepress/assets/ReactComp1.BMxtl_QH.js",
       "/docs-islands/vitepress/assets/ReactComp3.bzk1Ohq6.js",
       "/docs-islands/vitepress/assets/ReactComp4.CoMpYBxI.js",
@@ -35,6 +35,6 @@
       "/docs-islands/vitepress/assets/ReactComp2.zEIHWJyy.css",
       "/docs-islands/vitepress/assets/ReactComp3.BvmKd6v5.css"
     ],
-    "ssrInjectScript": "/docs-islands/vitepress/assets/ssr-inject-code.20556eb5.js"
+    "ssrInjectScript": "/docs-islands/vitepress/assets/ssr-inject-code.2ff2de6e.js"
   }
 }
